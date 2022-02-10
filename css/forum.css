@@ -1,0 +1,65 @@
+#sectionforum1
+{
+    background-image: url("../img/forumbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
+
+#sectionforum1 h2
+{
+    font-size: 60px;
+    color:white;
+    padding-top:200px;
+}
+#sectionforum1 p
+{
+    font-size: 20px;
+    letter-spacing: 1px;;
+}
+.forumsection55{
+    background-image: url("../img/community-bg.jpg");
+  
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top center;
+
+    
+    
+
+}
+   
+.ffsection55{
+   background-color: #000047;
+   max-width: 1367px;
+   margin: 0 auto;
+   background: rgba(0, 0, 0, 0.28);
+   padding-top: 97px;
+   padding-bottom: 97px;
+   position: relative;
+ 
+}
+form{
+    position: absolute;
+    right: 80px;
+}
+.ffsection55 ul{
+    margin-top: 80px;
+}
+
+.ffsection55 ul li{
+    
+    padding: 33px 55px 65px;
+    margin-bottom: 21px;
+    overflow: hidden;
+    border: 1px solid #878787;
+    background: #1f2225;
+
+}
+
+
+
+
+
+
+   
